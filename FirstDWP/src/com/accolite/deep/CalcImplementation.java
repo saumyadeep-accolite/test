@@ -54,7 +54,7 @@ public class CalcImplementation implements Calculator {
 				System.out.println(calculator.div(a, b));
 			}
 			catch(ArithmeticException e){
-				e.printStackTrace();
+				System.out.println("Cannot divide by 0");
 			}
 			break;
 
