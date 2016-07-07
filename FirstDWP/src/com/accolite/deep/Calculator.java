@@ -1,3 +1,11 @@
+/****************************************************************************
+* Copyright (c) 2016 by Accolite.com. All rights reserved
+*
+* Created date :: Jul 7, 2016
+*
+*  @author :: Saumyadeep Tarafdar
+* ***************************************************************************
+*/
 package com.accolite.deep;
 
 public interface Calculator {
